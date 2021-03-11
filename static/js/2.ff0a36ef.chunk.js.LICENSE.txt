@@ -4,6 +4,8 @@ object-assign
 @license MIT
 */
 
+/*! LeaderLine v1.0.5 (c) anseki https://anseki.github.io/leader-line/ */
+
 /** @license React v0.20.1
  * scheduler.production.min.js
  *
